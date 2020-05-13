@@ -1,18 +1,35 @@
 ## Privacy Policy
 
+Политика конфиденциальности
 
-Konstantin Khoroshun built the Clients — appointment reminder app as a Commercial app. This SERVICE is provided by Konstantin Khoroshun and is intended for use as is.
+1. Настоящая Политика конфиденциальности действует в отношении всей информации, которую Разработчик Konstantin Khoroshun может получить о пользователе во время использования его игр.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+2. Использование игры означает безоговорочное согласие пользователя с настоящей Политикой и указанными в ней условиями обработки его персональной информации; в случае несогласия с этими условиями пользователь должен воздержаться от использования игры.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+3. Какую информацию и данные собирают Разработчики:
+3.1. Технические Данные устройства пользователя, например, уникальный идентификатор устройства (постоянный / непостоянный), IP адрес, примерное местоположение, язык.
+3.2. Поведения пользователя во время игры( например, время проведенное в игре), сведения об ошибках, происходящих в приложении.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Clients — appointment reminder unless otherwise defined in this Privacy Policy.
+4. Для чего собирается и обрабатывается информация:
+4.1. Игра собирает и хранит только те данные, которые необходимы для функционирования игры.
+4.2 Персональную информацию пользователя игры Разработчики могут использовать в следующих целях:
+4.2.1 Улучшение и оптимизация наших игр;
+4.2.2 Персонализация рекламы, показываемой пользователю.
 
-Information Collection and Use
+5. Куда могут передаваться данные пользователя и как они защищаются:
+5.1 Сервисы, предоставляющие рекламу внутри приложения, могут получать определенную техническую информацию (например, IP-адреса, непостоянные идентификаторы устройства, примерное местоположение, язык). Рекомендуем вам ознакомиться с их политиками конфиденциальности, чтобы получить более подробную информацию о том, как они обрабатывают данные.
+Google Admob, Analytics & Firebase https://policies.google.com/privacy
+5.2 В целях защиты персональных данных Разработчик принимает меры технического и организационно-правового характера, но не несет ответственности за злоумышленные действия третьих лиц.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+6. Как пользователь может изменять персональную информацию:
+6.1 Пользователь может изменить или дополнить персональную информацию в настройках игры;
+6.3 Пользователь также может удалить информацию, запросив её удаление по электронной почте mobdeveloper.com@gmail.com
 
-The app does use third party services that may collect information used to identify you.
+7. Возрастное ограничение:
+7.1 Мы не осуществляем специальный сбор или запрос личных данных у лиц младше 13 лет. Если вам меньше 13 лет, не отправляйте нам какую-либо информацию о себе, включая имя, адрес, номер телефона или адрес электронной почты.
 
-Link to privacy policy of third party service providers used by the app
+8. Изменения в этой политике:
+8.1 Разработчики могут вносить изменения в данную Политику без согласования с пользователем. Рекомендуем вам периодически посещать данную страницу, чтобы знакомиться с последней информацией о наших принципах сохранения конфиденциальности.
+
+9. Как связаться с нами:
+9.1 Если у вас есть вопросы , то пишите на электронную почту: mobdeveloper.com@gmail.com
