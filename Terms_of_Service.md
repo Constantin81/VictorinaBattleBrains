@@ -1,29 +1,32 @@
-## Terms of sevices
-1. Terms
-By accessing our app, Clients — appointment reminder, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing Clients — appointment reminder. The materials contained in Clients — appointment reminder are protected by applicable copyright and trademark law.
+## Условия использования
 
-2. Use License
-Permission is granted to temporarily download one copy of Clients — appointment reminder per device for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
-modify or copy the materials;
-use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
-attempt to decompile or reverse engineer any software contained in Clients — appointment reminder;
-remove any copyright or other proprietary notations from the materials; or
-transfer the materials to another person or "mirror" the materials on any other server.
-This license shall automatically terminate if you violate any of these restrictions and may be terminated by Konstantin Horoshun at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
-3. Disclaimer
-The materials within Clients — appointment reminder are provided on an 'as is' basis. Konstantin Horoshun makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
-Further, Konstantin Horoshun does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to Clients — appointment reminder.
-4. Limitations
-In no event shall Konstantin Horoshun or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use Clients — appointment reminder, even if Konstantin Horoshun or a Konstantin Horoshun authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+Загружая или используя приложение, эти условия будут автоматически применяться к вам - поэтому вы должны убедиться, что внимательно прочитали их перед использованием приложения. Вам не разрешается копировать или изменять приложение, любую его часть или наши торговые марки каким-либо образом. Вам не разрешается пытаться извлечь исходный код приложения, и вам также не следует пытаться переводить приложение на другие языки или создавать производные версии. Само приложение, а также все торговые марки, авторские права, права на базу данных и другие связанные с ним права интеллектуальной собственности все еще принадлежат Константину Хорошуну, далее (Разработчик).
 
-5. Accuracy of materials
-The materials appearing in Clients — appointment reminder could include technical, typographical, or photographic errors. Konstantin Horoshun does not warrant that any of the materials on Clients — appointment reminder are accurate, complete or current. Konstantin Horoshun may make changes to the materials contained in Clients — appointment reminder at any time without notice. However Konstantin Horoshun does not make any commitment to update the materials.
+Разработчик стремится к тому, чтобы приложение было максимально полезным и эффективным. По этой причине мы оставляем за собой право вносить изменения в приложение или взимать плату за его услуги в любое время и по любой причине. Мы никогда не будем взимать с вас плату за приложение или его услуги, не предоставив вам четкого представления о том, за что именно вы платите.
 
-6. Links
-Konstantin Horoshun has not reviewed all of the sites linked to its app and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Konstantin Horoshun of the site. Use of any such linked website is at the user's own risk.
+Приложение «Викторина: Битва умов» хранит и обрабатывает персональные данные, которые вы нам предоставили, для предоставления моего Сервиса. Вы несете ответственность за безопасность своего телефона и доступ к приложению. Поэтому мы рекомендуем вам не делать джейлбрейк или рутировать свой телефон, это процесс удаления программных ограничений и ограничений, наложенных официальной операционной системой вашего устройства. Это может сделать ваш телефон уязвимым для вредоносных программ / вирусов / вредоносных программ, поставить под угрозу функции безопасности вашего телефона, а это может означать, что приложение Викторина: Битва умов не будет работать должным образом или вообще не работать.
 
-7. Modifications
-Konstantin Horoshun may revise these terms of service for its app at any time without notice. By using Clients — appointment reminder you are agreeing to be bound by the then current version of these terms of service.
+Приложение использует сторонние сервисы, которые декларируют свои Условия использования.
 
-8. Governing Law
-These terms and conditions are governed by and construed in accordance with the laws of Russia and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
+Ссылка на Условия использования сторонних поставщиков услуг, используемых приложением
+
+AdMob
+Вы должны знать, что есть определенные вещи, за которые Разработчик не будет нести ответственность. Для определенных функций приложения требуется активное подключение к Интернету. Соединение может быть Wi-Fi или предоставлено вашим оператором мобильной связи, но Разработчик не может взять на себя ответственность за то, что приложение не работает с полной функциональностью, если у вас нет доступа к Wi-Fi, и у вас нет Ваше пособие на данные осталось.
+
+Если вы используете приложение за пределами области с Wi-Fi, вы должны помнить, что ваши условия соглашения с вашим оператором мобильной связи будут по-прежнему применяться. В результате ваш оператор мобильной связи может взимать с вас плату за данные за время соединения при доступе к приложению или другие сторонние платежи. Используя приложение, вы берете на себя ответственность за любые такие сборы, включая плату за передачу данных в роуминге, если вы используете приложение за пределами своей территории (т.е. региона или страны) без отключения роуминга данных. Если вы не являетесь плательщиком счета для устройства, на котором вы используете приложение, имейте в виду, что мы предполагаем, что вы получили разрешение от плательщика счета за использование приложения.
+
+В то же время, Разработчик не всегда может нести ответственность за то, как вы используете приложение, т. Е. Вы должны быть уверены, что ваше устройство остается заряженным - если оно разряжено, и вы не можете включить его, чтобы воспользоваться службой, Разработчик не может принять ответственность.
+
+Что касается ответственности Разработчика за использование вами приложения, при использовании приложения важно помнить, что, хотя мы стремимся постоянно обновлять и корректировать его, мы полагаемся на то, что третьи стороны предоставить нам информацию, чтобы мы могли сделать ее доступной для вас. Разработчик не несет никакой ответственности за любые убытки, прямые или косвенные, которые вы испытываете в результате полностью полагаться на эту функциональность приложения.
+
+В какой-то момент мы можем захотеть обновить приложение. В настоящее время приложение доступно на iOS - требования к системе (и к любым дополнительным системам, для которых мы решили расширить доступность приложения) могут измениться, и вам придется загружать обновления, если вы хотите продолжать использовать приложение. Разработчик не обещает, что он всегда будет обновлять приложение, чтобы оно имело отношение к вам и / или работает с версией iOS, установленной на вашем устройстве. Тем не менее, вы обещаете всегда принимать обновления приложения, когда они вам предлагаются. Мы также можем отказаться от предоставления приложения и можем прекратить его использование в любое время, не уведомив вас о прекращении. Если мы не сообщим вам об обратном, после любого прекращения, (а) права и лицензии, предоставленные вам в этих условиях, будут прекращены; (б) вы должны прекратить использование приложения и (при необходимости) удалить его со своего устройства.
+
+Изменения в настоящих Условиях
+
+Я могу время от времени обновлять наши Условия использования. Таким образом, вам рекомендуется периодически просматривать эту страницу на наличие изменений. Я сообщу вам о любых изменениях, разместив новые условия на этой странице.
+
+Настоящие условия вступают в силу с 2020-05-13 гг.
+
+Связаться с нами
+
+Если у вас есть какие-либо вопросы или предложения по поводу моих Условий, не стесняйтесь обращаться ко мне по адресу mobdeveloper.com@gmail.com
