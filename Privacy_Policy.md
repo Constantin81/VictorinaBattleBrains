@@ -1,34 +1,50 @@
 ## Политика конфиденциальности
 
 
-1. Настоящая Политика конфиденциальности действует в отношении всей информации, которую Разработчик Konstantin Khoroshun может получить о пользователе во время использования его игр.
+Константин Хоршун built the Викторина битва умов app as a Freemium app. This SERVICE is provided by Константин Хоршун at no cost and is intended for use as is.
 
-2. Использование игры означает безоговорочное согласие пользователя с настоящей Политикой и указанными в ней условиями обработки его персональной информации; в случае несогласия с этими условиями пользователь должен воздержаться от использования игры.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-3. Какую информацию и данные собирают Разработчики:
-3.1. Технические Данные устройства пользователя, например, уникальный идентификатор устройства (постоянный / непостоянный), IP адрес, примерное местоположение, язык.
-3.2. Поведения пользователя во время игры( например, время проведенное в игре), сведения об ошибках, происходящих в приложении.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-4. Для чего собирается и обрабатывается информация:
-4.1. Игра собирает и хранит только те данные, которые необходимы для функционирования игры.
-4.2 Персональную информацию пользователя игры Разработчики могут использовать в следующих целях:
-4.2.1 Улучшение и оптимизация наших игр;
-4.2.2 Персонализация рекламы, показываемой пользователю.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Викторина битва умов unless otherwise defined in this Privacy Policy.
 
-5. Куда могут передаваться данные пользователя и как они защищаются:
-5.1 Сервисы, предоставляющие рекламу внутри приложения, могут получать определенную техническую информацию (например, IP-адреса, непостоянные идентификаторы устройства, примерное местоположение, язык). Рекомендуем вам ознакомиться с их политиками конфиденциальности, чтобы получить более подробную информацию о том, как они обрабатывают данные.
-Google Admob, Analytics & Firebase https://policies.google.com/privacy
-5.2 В целях защиты персональных данных Разработчик принимает меры технического и организационно-правового характера, но не несет ответственности за злоумышленные действия третьих лиц.
+Information Collection and Use
 
-6. Как пользователь может изменять персональную информацию:
-6.1 Пользователь может изменить или дополнить персональную информацию в настройках игры;
-6.3 Пользователь также может удалить информацию, запросив её удаление по электронной почте mobdeveloper.com@gmail.com
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 
-7. Возрастное ограничение:
-7.1 Мы не осуществляем специальный сбор или запрос личных данных у лиц младше 13 лет. Если вам меньше 13 лет, не отправляйте нам какую-либо информацию о себе, включая имя, адрес, номер телефона или адрес электронной почты.
+Log Data
 
-8. Изменения в этой политике:
-8.1 Разработчики могут вносить изменения в данную Политику без согласования с пользователем. Рекомендуем вам периодически посещать данную страницу, чтобы знакомиться с последней информацией о наших принципах сохранения конфиденциальности.
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-9. Как связаться с нами:
-9.1 Если у вас есть вопросы , то пишите на электронную почту: mobdeveloper.com@gmail.com
+Cookies
+
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+
+This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+
+Service Providers
+
+I may employ third-party companies and individuals due to the following reasons:
+
+To facilitate our Service;
+To provide the Service on our behalf;
+To perform Service-related services; or
+To assist us in analyzing how our Service is used.
+I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+Security
+
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+Links to Other Sites
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+Children’s Privacy
+
+I do not knowingly collect personally identifiable information from children. I encourage all children to never submit any personally identifiable information through the Application and/or Services. I encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to us through the Application and/or Services, please contact us. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+
+Changes to This Privacy Policy
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
